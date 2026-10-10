@@ -61,7 +61,7 @@ more-itertools==9.1.0
 nest-asyncio==1.5.8
 numpy==1.21.6
 oauth2client==4.1.3
-oauthlib==3.2.2
+oauthlib==4.0.0
 outcome==1.3.0.post0
 packaging==23.2
 pandas==1.3.5
